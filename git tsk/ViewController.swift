@@ -13,6 +13,10 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("first git post")
+        
+        let array = ["name","nams"]
+        print("\(array)")
+
         // Do any additional setup after loading the view, typically from a nib.
     }
 
